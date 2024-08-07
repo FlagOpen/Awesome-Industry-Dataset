@@ -1,7 +1,13 @@
 # Awesome-Indsutry-Dataset
+
 旨在收集各行业的开源数据，引导和推动行业大模型的发展
 
+项目持续收集整理中，也期冀相关从业人员补充！
+
 ## 新闻
+
+- [2024/8/7] 收录整理 84 个开源行业大模型
+- [2024/8/7] 收录第一版开源行业数据集，共 332 个数据集，包括 187 个文本数据集，76 个视觉数据集合 69 个多模态数据集
 
 ## 目录
 
@@ -11,6 +17,7 @@
   - [文本数据集](#文本数据集)
   - [视觉数据集](#视觉数据集)
   - [多模态数据集](#多模态数据集)
+  - [开源行业大模型](#开源行业大模型)
 
 ## 文本数据集
 
@@ -2089,6 +2096,8 @@
   <tbody>
 </table>
 
+👆 [<b>BACK to Table of Contents</b> -->](#目录)
+
 
 ## 视觉数据集
 
@@ -2248,23 +2257,23 @@
     </tr>
     <tr>
       <td>3. 采矿</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[11]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>4. 石油化工</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[12]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>5. 电力能源</td>
@@ -2274,7 +2283,7 @@
       <td>0</td>
       <td>Nuremberg Institute of Technology</td>
       <td>CC BY-NC-SA 4.0</td>
-      <td><a href="https://github.com/zae-bayern/elpv-dataset">[13]</a></td>
+      <td><a href="https://github.com/zae-bayern/elpv-dataset">[11]</a></td>
     </tr>
     <tr>
       <td>5. 电力能源</td>
@@ -2294,7 +2303,7 @@
       <td>31</td>
       <td>University of Wroclaw</td>
       <td>CC BY-NC 2.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/AGAR">[14]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/AGAR">[12]</a></td>
     </tr>
     <tr>
       <td>7. 航空航天</td>
@@ -2304,7 +2313,7 @@
       <td>137.5</td>
       <td>武汉大学</td>
       <td>Custom</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/DOTA_V2_dot_0">[15]</a></td>
+      <td>-</td>
     </tr>
     <tr>
       <td>7. 航空航天</td>
@@ -2314,7 +2323,7 @@
       <td>11.9</td>
       <td>武汉大学</td>
       <td>CC BY-NC-SA 4.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/LoveDA">[16]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/LoveDA">[13]</a></td>
     </tr>
     <tr>
       <td>7. 航空航天</td>
@@ -2324,7 +2333,7 @@
       <td>110.1</td>
       <td>Technical University of Munich</td>
       <td>CC BY 4.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/So2Sat_LCZ42">[17]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/So2Sat_LCZ42">[14]</a></td>
     </tr>
     <tr>
       <td>7. 航空航天</td>
@@ -2334,7 +2343,7 @@
       <td>26.5</td>
       <td>武汉大学</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/Aerial_imagery_dataset">[18]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/Aerial_imagery_dataset">[15]</a></td>
     </tr>
     <tr>
       <td>7. 航空航天</td>
@@ -2344,7 +2353,7 @@
       <td>1.7</td>
       <td>中国科学院</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/xiong_an_ma_ti_wan_cun_hang_kong_gao_etc">[19]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/xiong_an_ma_ti_wan_cun_hang_kong_gao_etc">[16]</a></td>
     </tr>
     <tr>
       <td>7. 航空航天</td>
@@ -2354,7 +2363,7 @@
       <td>1.5</td>
       <td>西安交通大学</td>
       <td>-</td>
-      <td><a href="https://www.cvmart.net/dataSets/detail/853?channel_id=op10&utm_source=cvmartmp&utm_campaign=datasets&utm_medium=article">[20]</a></td>
+      <td><a href="https://www.cvmart.net/dataSets/detail/853?channel_id=op10&utm_source=cvmartmp&utm_campaign=datasets&utm_medium=article">[17]</a></td>
     </tr>
     <tr>
       <td>8. 其他制造业</td>
@@ -2364,7 +2373,7 @@
       <td>0</td>
       <td>东北大学</td>
       <td>-</td>
-      <td><a href="http://faculty.neu.edu.cn/songkechen/zh_CN/zdylm/263270/list/">[21]</a></td>
+      <td><a href="http://faculty.neu.edu.cn/songkechen/zh_CN/zdylm/263270/list/">[18]</a></td>
     </tr>
     <tr>
       <td>8. 其他制造业</td>
@@ -2384,7 +2393,7 @@
       <td>-</td>
       <td>University of Ljubljana</td>
       <td>CC BY-NC-SA 4.0</td>
-      <td><a href="https://www.vicos.si/resources/kolektorsdd/">[22]</a></td>
+      <td><a href="https://www.vicos.si/resources/kolektorsdd/">[19]</a></td>
     </tr>
     <tr>
       <td>8. 其他制造业</td>
@@ -2398,43 +2407,43 @@
     </tr>
     <tr>
       <td>9. 计算机/通信</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[23]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>10. 计算机编程</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[24]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>11. 人工智能</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[25]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>12. 其他信息服务</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[26]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>13. 房地产/建筑</td>
@@ -2444,7 +2453,7 @@
       <td>10.8</td>
       <td>UMass Amherst</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/BuildingNet">[27]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/BuildingNet">[20]</a></td>
     </tr>
     <tr>
       <td>13. 房地产/建筑</td>
@@ -2454,7 +2463,7 @@
       <td>5.4</td>
       <td>阿里巴巴</td>
       <td>CC BY-NC 4.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/FloorPlanCAD">[28]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/FloorPlanCAD">[21]</a></td>
     </tr>
     <tr>
       <td>13. 房地产/建筑</td>
@@ -2464,7 +2473,7 @@
       <td>30.5</td>
       <td>Carnegie Mellon University</td>
       <td>BSD 3-Clause</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/xBD">[29]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/xBD">[22]</a></td>
     </tr>
     <tr>
       <td>13. 房地产/建筑</td>
@@ -2474,7 +2483,7 @@
       <td>11.4</td>
       <td>北京遥感研究所</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/S2Looking">[30]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/S2Looking">[23]</a></td>
     </tr>
     <tr>
       <td>13. 房地产/建筑</td>
@@ -2484,7 +2493,7 @@
       <td>28.2</td>
       <td>University of the Philippines</td>
       <td>Custom</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/Houses3K">[31]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/Houses3K">[24]</a></td>
     </tr>
     <tr>
       <td>14. 交通运输/邮政</td>
@@ -2494,7 +2503,7 @@
       <td>11.3</td>
       <td>California Institute of Technology</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/Caltech_Pedestrian_Detection_etc">[32]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/Caltech_Pedestrian_Detection_etc">[25]</a></td>
     </tr>
     <tr>
       <td>14. 交通运输/邮政</td>
@@ -2504,7 +2513,7 @@
       <td>1.7</td>
       <td>西北工业大学</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/LDDRS">[33]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/LDDRS">[26]</a></td>
     </tr>
     <tr>
       <td>14. 交通运输/邮政</td>
@@ -2514,7 +2523,7 @@
       <td>590</td>
       <td>Institut de Recherche Technologique SystemX</td>
       <td>CC BY-NC-SA 4.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/FRSign">[34]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/FRSign">[27]</a></td>
     </tr>
     <tr>
       <td>14. 交通运输/邮政</td>
@@ -2524,7 +2533,7 @@
       <td>1.5</td>
       <td>University of Alcalá</td>
       <td>Custom</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/TRANCOS">[35]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/TRANCOS">[28]</a></td>
     </tr>
     <tr>
       <td>14. 交通运输/邮政</td>
@@ -2534,7 +2543,7 @@
       <td>1.4</td>
       <td>上海交通大学</td>
       <td>MIT</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/S2TLD">[36]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/S2TLD">[29]</a></td>
     </tr>
     <tr>
       <td>14. 交通运输/邮政</td>
@@ -2544,7 +2553,7 @@
       <td>67.1</td>
       <td>Rochester Institute of Technology</td>
       <td>MIT</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/CCD">[37]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/CCD">[30]</a></td>
     </tr>
     <tr>
       <td>14. 交通运输/邮政</td>
@@ -2554,7 +2563,7 @@
       <td>0</td>
       <td>University of Chinese Academy of Sciences</td>
       <td>Custom</td>
-      <td><a href="https://github.com/cuilimeng/CrackForest-dataset">[38]</a></td>
+      <td><a href="https://github.com/cuilimeng/CrackForest-dataset">[31]</a></td>
     </tr>
     <tr>
       <td>15. 水利/海洋</td>
@@ -2564,7 +2573,7 @@
       <td>1.2</td>
       <td>National Technical University of Athens</td>
       <td>CC BY 4.0</td>
-      <td><a href="https://zenodo.org/records/5151941">[39]</a></td>
+      <td><a href="https://zenodo.org/records/5151941">[32]</a></td>
     </tr>
     <tr>
       <td>15. 水利/海洋</td>
@@ -2574,27 +2583,27 @@
       <td>0.2</td>
       <td>University of Minnesota</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/SUIM">[40]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/SUIM">[33]</a></td>
     </tr>
     <tr>
       <td>16. 数学</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[41]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>17. 学科教育</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[42]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>18. 科技/科学研究</td>
@@ -2614,7 +2623,7 @@
       <td>2.3</td>
       <td>东京大学</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/Chikusei_Dataset">[43]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/Chikusei_Dataset">[34]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -2624,7 +2633,7 @@
       <td>328.6</td>
       <td>上海人工智能实验室</td>
       <td>Apache 2.0</td>
-      <td><a href="https://github.com/OpenGVLab/SAM-Med2D">[44]</a></td>
+      <td><a href="https://github.com/OpenGVLab/SAM-Med2D">[35]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -2634,7 +2643,7 @@
       <td>27.4</td>
       <td>University of Bucharest</td>
       <td>CC BY-SA 3.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/IXI">[45]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/IXI">[36]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -2644,7 +2653,7 @@
       <td>51.5</td>
       <td>University of Bremen</td>
       <td>CC BY 4.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/LoDoPaB-CT">[46]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/LoDoPaB-CT">[37]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -2664,7 +2673,7 @@
       <td>2.7</td>
       <td>Dokuz Eylul University</td>
       <td>CC BY-NC-SA 4.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/CHAOS">[47]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/CHAOS">[38]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -2674,7 +2683,7 @@
       <td>2.3</td>
       <td>东京大学</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/IntrA">[48]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/IntrA">[39]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -2694,7 +2703,7 @@
       <td>0.3</td>
       <td>Radboud University Medical Center</td>
       <td>CC BY 4.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/HC18">[49]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/HC18">[40]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -2704,7 +2713,7 @@
       <td>0.2</td>
       <td>Faculty of Computer and Artificial Intelligence</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/staryu/BUSI">[50]</a></td>
+      <td><a href="https://opendatalab.com/staryu/BUSI">[41]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -2714,7 +2723,7 @@
       <td>0</td>
       <td>University of Edinburgh</td>
       <td>-</td>
-      <td><a href="https://vios-s.github.io/multiscale-adversarial-attention-gates/data">[51]</a></td>
+      <td><a href="https://vios-s.github.io/multiscale-adversarial-attention-gates/data">[42]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -2724,7 +2733,7 @@
       <td>72.5</td>
       <td>MONAI Development Team</td>
       <td>CC BY-SA 4.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/Medical_Segmentation_Decathlon">[52]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/Medical_Segmentation_Decathlon">[43]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -2734,7 +2743,7 @@
       <td>61.5</td>
       <td>The University of Chicago</td>
       <td>CC BY 3.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/LIDC-IDRI">[53]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/LIDC-IDRI">[44]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -2748,33 +2757,33 @@
     </tr>
     <tr>
       <td>20. 法律/司法</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[54]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>21. 金融/经济</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[55]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>22. 体育</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[56]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>23. 影视/娱乐</td>
@@ -2784,7 +2793,7 @@
       <td>76.8</td>
       <td>ZHAW Datalab & USI</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/DeepScores">[57]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/DeepScores">[45]</a></td>
     </tr>
     <tr>
       <td>23. 影视/娱乐</td>
@@ -2794,7 +2803,7 @@
       <td>4.7</td>
       <td>University of Cordoba</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/UCO-LAEO">[58]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/UCO-LAEO">[46]</a></td>
     </tr>
     <tr>
       <td>24. 游戏</td>
@@ -2804,7 +2813,7 @@
       <td>10.2</td>
       <td>Fuxi AI Lab in Netease</td>
       <td>CC BY 4.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/GLIB_image_dataset">[59]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/GLIB_image_dataset">[47]</a></td>
     </tr>
     <tr>
       <td>24. 游戏</td>
@@ -2814,27 +2823,27 @@
       <td>14.7</td>
       <td>牛津大学</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/CocoDoom">[60]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/CocoDoom">[48]</a></td>
     </tr>
     <tr>
       <td>25. 时政/政务/行政</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[61]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>26. 文学/情感</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[62]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>27. 旅游/地理</td>
@@ -2844,7 +2853,7 @@
       <td>11.6</td>
       <td>Friedrich Schiller University Jena</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/European_Flood_2013_Dataset">[63]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/European_Flood_2013_Dataset">[49]</a></td>
     </tr>
     <tr>
       <td>27. 旅游/地理</td>
@@ -2864,7 +2873,7 @@
       <td>14.4</td>
       <td>中山大学</td>
       <td>CC BY-NC 4.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/OmniCity">[64]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/OmniCity">[50]</a></td>
     </tr>
     <tr>
       <td>28. 住宿/餐饮/酒店</td>
@@ -2874,7 +2883,7 @@
       <td>3.1</td>
       <td>George Washington University</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/Hotels-50K">[65]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/Hotels-50K">[51]</a></td>
     </tr>
     <tr>
       <td>29. 新闻传媒</td>
@@ -2884,17 +2893,17 @@
       <td>916.7</td>
       <td>上海人工智能实验室</td>
       <td>CC BY 4.0</td>
-      <td><a href="https://opendatalab.org.cn/OpenDataLab/WanJuan1_dot_0/tree/main?source=R2l0aHVi">[66]</a></td>
+      <td><a href="https://opendatalab.org.cn/OpenDataLab/WanJuan1_dot_0/tree/main?source=R2l0aHVi">[52]</a></td>
     </tr>
     <tr>
       <td>30. 安全</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[67]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>31. 其他</td>
@@ -2904,7 +2913,7 @@
       <td>24.1</td>
       <td>University of Verona</td>
       <td>CC BY-NC-SA 4.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/MovingFashion">[68]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/MovingFashion">[53]</a></td>
     </tr>
     <tr>
       <td>31. 其他</td>
@@ -2914,7 +2923,7 @@
       <td>13.1</td>
       <td>中国科学技术大学</td>
       <td>Apache 2.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/VegFru">[69]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/VegFru">[54]</a></td>
     </tr>
     <tr>
       <td>31. 其他</td>
@@ -2924,7 +2933,7 @@
       <td>14.7</td>
       <td>香港中文大学</td>
       <td>-</td>
-      <td><a href="https://github.com/switchablenorms/DeepFashion2">[70]</a></td>
+      <td><a href="https://github.com/switchablenorms/DeepFashion2">[55]</a></td>
     </tr>
     <tr>
       <td>31. 其他</td>
@@ -2934,7 +2943,7 @@
       <td>-</td>
       <td>上海交通大学</td>
       <td>-</td>
-      <td><a href="https://github.com/Charmve/Surface-Defect-Detection/tree/master/DeepPCB">[71]</a></td>
+      <td><a href="https://github.com/Charmve/Surface-Defect-Detection/tree/master/DeepPCB">[56]</a></td>
     </tr>
     <tr>
       <td>31. 其他</td>
@@ -2954,7 +2963,7 @@
       <td>-</td>
       <td>University of Chinese Academy of Sciences</td>
       <td>-</td>
-      <td><a href="https://github.com/Charmve/Surface-Defect-Detection/tree/master/Magnetic-Tile-Defect">[72]</a></td>
+      <td><a href="https://github.com/Charmve/Surface-Defect-Detection/tree/master/Magnetic-Tile-Defect">[57]</a></td>
     </tr>
     <tr>
       <td>31. 其他</td>
@@ -2994,7 +3003,7 @@
       <td>1.1</td>
       <td>University of Udine</td>
       <td>CC BY-SA 4.0</td>
-      <td><a href="https://www.cvmart.net/dataSets/detail/855?channel_id=op10&utm_source=cvmartmp&utm_campaign=datasets&utm_medium=article">[73]</a></td>
+      <td><a href="https://www.cvmart.net/dataSets/detail/855?channel_id=op10&utm_source=cvmartmp&utm_campaign=datasets&utm_medium=article">[58]</a></td>
     </tr>
     <tr>
       <td>31. 其他</td>
@@ -3004,10 +3013,13 @@
       <td>-</td>
       <td>Technical University of Munich</td>
       <td>CC BY-NC-SA 4.0</td>
-      <td><a href="https://www.mvtec.com/company/research/datasets/mvtec-ad">[74]</a></td>
+      <td><a href="https://www.mvtec.com/company/research/datasets/mvtec-ad">[59]</a></td>
     </tr>
   <tbody>
 </table>
+
+👆 [<b>BACK to Table of Contents</b> -->](#目录)
+
 
 ## 多模态数据集
 
@@ -3157,43 +3169,43 @@
     </tr>
     <tr>
       <td>3. 采矿</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[11]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>4. 石油化工</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[12]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>5. 电力能源</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[13]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>6. 生物医药</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[14]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>7. 航空航天</td>
@@ -3203,67 +3215,67 @@
       <td>0.6</td>
       <td>中国科学院</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/RSICD">[15]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/RSICD">[11]</a></td>
     </tr>
     <tr>
       <td>8. 其他制造业</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[16]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>9. 计算机/通信</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[17]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>10. 计算机编程</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[18]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>11. 人工智能</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[19]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>12. 其他信息服务</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[20]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>13. 房地产/建筑</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[21]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>14. 交通运输/邮政</td>
@@ -3273,17 +3285,17 @@
       <td>27.5</td>
       <td>Motional. Boston, MA</td>
       <td>MIT</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/Reasonable_Crowd">[22]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/Reasonable_Crowd">[12]</a></td>
     </tr>
     <tr>
       <td>15. 水利/海洋</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[23]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>16. 数学</td>
@@ -3293,7 +3305,7 @@
       <td>2</td>
       <td>上海人工智能实验室</td>
       <td>Apache 2.0</td>
-      <td><a href="https://github.com/opendatalab/UniMERNet">[24]</a></td>
+      <td><a href="https://github.com/opendatalab/UniMERNet">[13]</a></td>
     </tr>
     <tr>
       <td>16. 数学</td>
@@ -3303,7 +3315,7 @@
       <td>0.9</td>
       <td>University of California</td>
       <td>CC BY-SA 4.0</td>
-      <td><a href="https://huggingface.co/datasets/AI4Math/MathVista?row=2">[25]</a></td>
+      <td><a href="https://huggingface.co/datasets/AI4Math/MathVista?row=2">[14]</a></td>
     </tr>
     <tr>
       <td>16. 数学</td>
@@ -3313,7 +3325,7 @@
       <td>19</td>
       <td>Umeå university</td>
       <td>CC BY 4.0</td>
-      <td><a href="https://huggingface.co/datasets/dali-does/clevr-math?row=23">[26]</a></td>
+      <td><a href="https://huggingface.co/datasets/dali-does/clevr-math?row=23">[15]</a></td>
     </tr>
     <tr>
       <td>16. 数学</td>
@@ -3323,7 +3335,7 @@
       <td>0.4</td>
       <td>中山大学</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/GeoQA">[27]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/GeoQA">[16]</a></td>
     </tr>
     <tr>
       <td>16. 数学</td>
@@ -3333,7 +3345,7 @@
       <td>0.3</td>
       <td>University of California</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/Geometry3K">[28]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/Geometry3K">[17]</a></td>
     </tr>
     <tr>
       <td>17. 学科教育</td>
@@ -3343,7 +3355,7 @@
       <td>42.2</td>
       <td>Virginia Tech</td>
       <td>CC BY 4.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/Visual_Question_Answering">[29]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/Visual_Question_Answering">[18]</a></td>
     </tr>
     <tr>
       <td>17. 学科教育</td>
@@ -3353,7 +3365,7 @@
       <td>0.6</td>
       <td>University of California</td>
       <td>CC BY-NC-SA 4.0</td>
-      <td><a href="https://huggingface.co/datasets/derek-thomas/ScienceQA?row=11">[30]</a></td>
+      <td><a href="https://huggingface.co/datasets/derek-thomas/ScienceQA?row=11">[19]</a></td>
     </tr>
     <tr>
       <td>17. 学科教育</td>
@@ -3363,7 +3375,7 @@
       <td>5.3</td>
       <td>Rochester Institute of Technology</td>
       <td>CC BY-NC 4.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/DVQA">[31]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/DVQA">[20]</a></td>
     </tr>
     <tr>
       <td>17. 学科教育</td>
@@ -3373,7 +3385,7 @@
       <td>1.7</td>
       <td>Allen Institute for Artificial Intelligence</td>
       <td>CC BY-SA 4.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/AI2D">[32]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/AI2D">[21]</a></td>
     </tr>
     <tr>
       <td>17. 学科教育</td>
@@ -3383,7 +3395,7 @@
       <td>8.6</td>
       <td>Facebook AI Research</td>
       <td>CC BY 4.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/TextVQA">[33]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/TextVQA">[22]</a></td>
     </tr>
     <tr>
       <td>18. 科技/科学研究</td>
@@ -3393,7 +3405,7 @@
       <td>0.6</td>
       <td>Allen Institute for AI</td>
       <td>CC BY 4.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/QASPER">[34]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/QASPER">[23]</a></td>
     </tr>
     <tr>
       <td>18. 科技/科学研究</td>
@@ -3403,7 +3415,7 @@
       <td>7.9</td>
       <td>清华大学</td>
       <td>Custom</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/THCHS-30">[35]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/THCHS-30">[24]</a></td>
     </tr>
     <tr>
       <td>18. 科技/科学研究</td>
@@ -3413,7 +3425,7 @@
       <td>14.5</td>
       <td>Beijing Shell Shell Technology Co. Ltd</td>
       <td>Apache 2.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/AISHELL-1">[36]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/AISHELL-1">[25]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -3423,7 +3435,7 @@
       <td>3.6</td>
       <td>National Institutes of Health, USA</td>
       <td>MIT</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/MedVidQA">[37]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/MedVidQA">[26]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -3433,7 +3445,7 @@
       <td>3.6</td>
       <td>University of Oslo</td>
       <td>Custom</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/Kvasir">[38]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/Kvasir">[27]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -3443,7 +3455,7 @@
       <td>1208</td>
       <td>BAAI，港中文</td>
       <td>Apache 2.0</td>
-      <td><a href="https://github.com/BAAI-DCAI/M3D?tab=readme-ov-file#data">[39]</a></td>
+      <td><a href="https://github.com/BAAI-DCAI/M3D?tab=readme-ov-file#data">[28]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -3463,7 +3475,7 @@
       <td>0</td>
       <td>National Library of Medicine, USA</td>
       <td>-</td>
-      <td><a href="https://osf.io/89kps/files/osfstorage">[40]</a></td>
+      <td><a href="https://osf.io/89kps/files/osfstorage">[29]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -3473,7 +3485,7 @@
       <td>0.1</td>
       <td>National Library of Medicine, USA</td>
       <td>-</td>
-      <td><a href="https://github.com/abachaa/VQA-Med-2019">[41]</a></td>
+      <td><a href="https://github.com/abachaa/VQA-Med-2019">[30]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -3483,7 +3495,7 @@
       <td>106</td>
       <td>Allen Institute for AI</td>
       <td>-</td>
-      <td><a href="https://github.com/allenai/medicat">[42]</a></td>
+      <td><a href="https://github.com/allenai/medicat">[31]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -3493,7 +3505,7 @@
       <td>0.2</td>
       <td>香港理工大学</td>
       <td>-</td>
-      <td><a href="https://www.med-vqa.com/slake/">[43]</a></td>
+      <td><a href="https://www.med-vqa.com/slake/">[32]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -3503,7 +3515,7 @@
       <td>0.5</td>
       <td>National Institutes of Health, USA</td>
       <td>-</td>
-      <td><a href="https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#tuberculosis-image-data-sets">[44]</a></td>
+      <td><a href="https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#tuberculosis-image-data-sets">[33]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -3513,7 +3525,7 @@
       <td>0.3</td>
       <td>IN.AI Research</td>
       <td>CC BY 4.0</td>
-      <td><a href="https://huggingface.co/datasets/MMMU/MMMU">[45]</a></td>
+      <td><a href="https://huggingface.co/datasets/MMMU/MMMU">[34]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -3523,7 +3535,7 @@
       <td>24.6</td>
       <td>上海交通大学</td>
       <td>-</td>
-      <td><a href="https://weixionglin.github.io/PMC-CLIP/">[46]</a></td>
+      <td><a href="https://weixionglin.github.io/PMC-CLIP/">[35]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -3533,7 +3545,7 @@
       <td>36</td>
       <td>University of Washington</td>
       <td>-</td>
-      <td><a href="https://quilt1m.github.io/">[47]</a></td>
+      <td><a href="https://quilt1m.github.io/">[36]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -3543,7 +3555,7 @@
       <td>6.4</td>
       <td>University of Applied Sciences and Arts Dortmund (FHDO)</td>
       <td>-</td>
-      <td><a href="https://zenodo.org/records/8333645">[48]</a></td>
+      <td><a href="https://zenodo.org/records/8333645">[37]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -3553,7 +3565,7 @@
       <td>500</td>
       <td>上海交通大学</td>
       <td>-</td>
-      <td><a href="https://chaoyi-wu.github.io/RadFM/">[49]</a></td>
+      <td><a href="https://chaoyi-wu.github.io/RadFM/">[38]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -3563,7 +3575,7 @@
       <td>-</td>
       <td>University of Zurich</td>
       <td>CC BY-NC-SA 4.0</td>
-      <td><a href="https://huggingface.co/datasets/ibrahimhamamci/CT-RATE">[50]</a></td>
+      <td><a href="https://huggingface.co/datasets/ibrahimhamamci/CT-RATE">[39]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -3573,7 +3585,7 @@
       <td>1.7</td>
       <td>University of California San Diego</td>
       <td>-</td>
-      <td><a href="https://pathvqachallenge.grand-challenge.org/">[51]</a></td>
+      <td><a href="https://pathvqachallenge.grand-challenge.org/">[40]</a></td>
     </tr>
     <tr>
       <td>19. 医学/健康/心理</td>
@@ -3583,37 +3595,37 @@
       <td>1.2</td>
       <td>EPFL</td>
       <td>CC BY 4.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/COUGHVID">[52]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/COUGHVID">[41]</a></td>
     </tr>
     <tr>
       <td>20. 法律/司法</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[53]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>21. 金融/经济</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[54]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>22. 体育</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[55]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>23. 影视/娱乐</td>
@@ -3623,7 +3635,7 @@
       <td>161.8</td>
       <td>Chinese University of Hong Kong</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/MovieNet">[56]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/MovieNet">[42]</a></td>
     </tr>
     <tr>
       <td>23. 影视/娱乐</td>
@@ -3633,7 +3645,7 @@
       <td>50</td>
       <td>University of Southern California</td>
       <td>MIT</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/VidSitu">[57]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/VidSitu">[43]</a></td>
     </tr>
     <tr>
       <td>23. 影视/娱乐</td>
@@ -3643,7 +3655,7 @@
       <td>16.6</td>
       <td>Carnegie Mellon University</td>
       <td>MIT</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/Violin">[58]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/Violin">[44]</a></td>
     </tr>
     <tr>
       <td>23. 影视/娱乐</td>
@@ -3653,7 +3665,7 @@
       <td>0.2</td>
       <td>University of Modena and Reggio Emilia</td>
       <td>Custom</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/M-VAD_Names">[59]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/M-VAD_Names">[45]</a></td>
     </tr>
     <tr>
       <td>23. 影视/娱乐</td>
@@ -3663,7 +3675,7 @@
       <td>17</td>
       <td>Chinese University of Hong Kong</td>
       <td>Custom</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/MovieShots">[60]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/MovieShots">[46]</a></td>
     </tr>
     <tr>
       <td>23. 影视/娱乐</td>
@@ -3673,7 +3685,7 @@
       <td>-</td>
       <td>University of Oxford</td>
       <td>CC BY 4.0</td>
-      <td><a href="https://github.com/m-bain/CondensedMovies">[61]</a></td>
+      <td><a href="https://github.com/m-bain/CondensedMovies">[47]</a></td>
     </tr>
     <tr>
       <td>23. 影视/娱乐</td>
@@ -3683,7 +3695,7 @@
       <td>0.2</td>
       <td>UC San Diego</td>
       <td>MIT</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/NES-MDB">[62]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/NES-MDB">[48]</a></td>
     </tr>
     <tr>
       <td>23. 影视/娱乐</td>
@@ -3693,7 +3705,7 @@
       <td>3.1</td>
       <td>CMU</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/MagnaTagATune">[63]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/MagnaTagATune">[49]</a></td>
     </tr>
     <tr>
       <td>24. 游戏</td>
@@ -3703,7 +3715,7 @@
       <td>2.5</td>
       <td>University of Alberta</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/Atari_2600_Video_Pinball">[64]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/Atari_2600_Video_Pinball">[50]</a></td>
     </tr>
     <tr>
       <td>24. 游戏</td>
@@ -3713,17 +3725,17 @@
       <td>24.9</td>
       <td>RWTH Aachen University</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/Atari_Grand_Challenge">[65]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/Atari_Grand_Challenge">[51]</a></td>
     </tr>
     <tr>
       <td>25. 时政/政务/行政</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[66]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>26. 文学/情感</td>
@@ -3733,7 +3745,7 @@
       <td>11.1</td>
       <td>百度</td>
       <td>-</td>
-      <td><a href="https://www.luge.ai/#/luge/dataDetail?id=21">[67]</a></td>
+      <td><a href="https://www.luge.ai/#/luge/dataDetail?id=21">[52]</a></td>
     </tr>
     <tr>
       <td>26. 文学/情感</td>
@@ -3743,7 +3755,7 @@
       <td>7.5</td>
       <td>University of Pennsylvania</td>
       <td>DbCL 1.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/CREMA-D">[68]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/CREMA-D">[53]</a></td>
     </tr>
     <tr>
       <td>26. 文学/情感</td>
@@ -3753,7 +3765,7 @@
       <td>0.6</td>
       <td>浙江大学</td>
       <td>CC BY-NC-SA 2.0</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/EMOVIE">[69]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/EMOVIE">[54]</a></td>
     </tr>
     <tr>
       <td>26. 文学/情感</td>
@@ -3763,7 +3775,7 @@
       <td>-</td>
       <td>University of Augsburg</td>
       <td>Custom</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/EmoFilm">[70]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/EmoFilm">[55]</a></td>
     </tr>
     <tr>
       <td>26. 文学/情感</td>
@@ -3773,7 +3785,7 @@
       <td>0.4</td>
       <td>Aristotle University of Thessaloniki</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/Acted_Emotional_Speech_Dynamic_Database">[71]</a></td>
+      <td>-</td>
     </tr>
     <tr>
       <td>26. 文学/情感</td>
@@ -3783,17 +3795,17 @@
       <td>2.3</td>
       <td>National University of Singapore</td>
       <td>Custom</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/ESD">[72]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/ESD">[56]</a></td>
     </tr>
     <tr>
       <td>27. 旅游/地理</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[73]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>28. 住宿/餐饮/酒店</td>
@@ -3803,7 +3815,7 @@
       <td>70.2</td>
       <td>University of Michigan</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/YouCook2">[74]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/YouCook2">[57]</a></td>
     </tr>
     <tr>
       <td>28. 住宿/餐饮/酒店</td>
@@ -3813,7 +3825,7 @@
       <td>3.4</td>
       <td>SUNY at Buffalo</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/YouCook">[75]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/YouCook">[58]</a></td>
     </tr>
     <tr>
       <td>28. 住宿/餐饮/酒店</td>
@@ -3823,7 +3835,7 @@
       <td>2.8</td>
       <td>Hacettepe University</td>
       <td>Custom</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/RecipeQA">[76]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/RecipeQA">[59]</a></td>
     </tr>
     <tr>
       <td>29. 新闻传媒</td>
@@ -3833,7 +3845,7 @@
       <td>118</td>
       <td>上海人工智能实验室</td>
       <td>CC BY 4.0</td>
-      <td><a href="https://opendatalab.org.cn/OpenDataLab/WanJuan1_dot_0/tree/main?source=R2l0aHVi">[77]</a></td>
+      <td><a href="https://opendatalab.org.cn/OpenDataLab/WanJuan1_dot_0/tree/main?source=R2l0aHVi">[60]</a></td>
     </tr>
     <tr>
       <td>29. 新闻传媒</td>
@@ -3843,7 +3855,7 @@
       <td>0.4</td>
       <td>Laguna Blanca School</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/Fakeddit">[78]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/Fakeddit">[61]</a></td>
     </tr>
     <tr>
       <td>29. 新闻传媒</td>
@@ -3853,37 +3865,915 @@
       <td>1.6</td>
       <td>北京大学</td>
       <td>-</td>
-      <td><a href="https://opendatalab.com/OpenDataLab/Cross-Modal_Comments_Dataset">[79]</a></td>
+      <td><a href="https://opendatalab.com/OpenDataLab/Cross-Modal_Comments_Dataset">[62]</a></td>
     </tr>
     <tr>
       <td>30. 安全</td>
-      <td><a href="nan">nan</a></td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
       <td>-</td>
-      <td>nan</td>
-      <td><a href="nan">[80]</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td>30. 其他</td>
+      <td>31. 其他</td>
       <td><a href="https://www.luge.ai/#/luge/dataDetail?id=51">MMChat</a></td>
       <td>图像-文本</td>
       <td>中文</td>
       <td>1.1</td>
       <td>阿里巴巴</td>
       <td>-</td>
-      <td><a href="https://www.luge.ai/#/luge/dataDetail?id=51">[81]</a></td>
+      <td><a href="https://www.luge.ai/#/luge/dataDetail?id=51">[63]</a></td>
     </tr>
     <tr>
-      <td>30. 其他</td>
+      <td>31. 其他</td>
       <td><a href="https://huggingface.co/datasets/zzliang/GRIT?row=18">GRIT</a></td>
       <td>图像-文本</td>
       <td>英文</td>
       <td>6.6</td>
       <td>Microsoft Research</td>
       <td>ms-pl</td>
-      <td><a href="https://huggingface.co/datasets/zzliang/GRIT?row=18">[82]</a></td>
+      <td><a href="https://huggingface.co/datasets/zzliang/GRIT?row=18">[64]</a></td>
     </tr>
   <tbody>
 </table>
+
+👆 [<b>BACK to Table of Contents</b> -->](#目录)
+
+## 开源行业大模型
+
+
+<table border='1' class='dataframe'>
+  <thead>
+    <tr style='text-align: left;'>
+      <th>Industry</th>
+      <th>Model</th>
+      <th>Language</th>
+      <th>Multimodal</th>
+      <th>Size</th>
+      <th>Base Model</th>
+      <th>Publisher</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. 农林牧渔</td>
+      <td><a href="https://github.com/AgriGPTs/AgriGPTs">AgriGPT</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>6B, 13B</td>
+      <td>ChatGLM2, Baichuan2</td>
+      <td>哈尔滨工业大学</td>
+    </tr>
+    <tr>
+      <td>2. 汽车</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>3. 采矿</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>4. 石油化工</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>5. 电力能源</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>6. 生物医药</td>
+      <td><a href="https://github.com/PharMolix/OpenBioMed">OpenBioMed</a></td>
+      <td>英文</td>
+      <td>×</td>
+      <td>7B, 10B</td>
+      <td>LLaMA2</td>
+      <td>水木分子</td>
+    </tr>
+    <tr>
+      <td>6. 生物医药</td>
+      <td><a href="https://github.com/DUTIR-BioNLP/Taiyi-LLM">Taiyi-LLM</a></td>
+      <td>中文 英文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>Qwen</td>
+      <td>大连理工大学</td>
+    </tr>
+    <tr>
+      <td>7. 航空航天</td>
+      <td><a href="https://github.com/Yu-Yang-Li/StarWhisper">StarWhisper</a></td>
+      <td>中文</td>
+      <td>√</td>
+      <td>14B</td>
+      <td>-</td>
+      <td>中国科学院大学</td>
+    </tr>
+    <tr>
+      <td>8. 其他制造业</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>9. 计算机/通信</td>
+      <td><a href="https://github.com/codefuse-ai/CodeFuse-DevOps-Model">DevOps-Model</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B, 14B</td>
+      <td>Qwen</td>
+      <td>蚂蚁集团</td>
+    </tr>
+    <tr>
+      <td>10. 计算机编程</td>
+      <td><a href="https://github.com/deepseek-ai/DeepSeek-Coder">Deepseek Coder</a></td>
+      <td>中文 英文</td>
+      <td>×</td>
+      <td>1B, 5.7B, 6.7B, 33B</td>
+      <td>预训练</td>
+      <td>深度求索</td>
+    </tr>
+    <tr>
+      <td>10. 计算机编程</td>
+      <td><a href="https://github.com/WisdomShell/codeshell">CodeShell</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>预训练</td>
+      <td>北京大学</td>
+    </tr>
+    <tr>
+      <td>11. 人工智能</td>
+      <td><a href="https://github.com/codefuse-ai/Test-Agent">TestGPT-7B</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>CodeLlama</td>
+      <td>蚂蚁集团</td>
+    </tr>
+    <tr>
+      <td>12. 其他信息服务</td>
+      <td><a href="https://github.com/Alibaba-NLP/EcomGPT">EcomGPT</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>bloomz</td>
+      <td>阿里</td>
+    </tr>
+    <tr>
+      <td>13. 房地产/建筑</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>14. 交通运输/邮政</td>
+      <td><a href="https://github.com/DUOMO/TransGPT">致远-TransGPT</a></td>
+      <td>中文</td>
+      <td>√</td>
+      <td>6B, 7B</td>
+      <td>LLaMA, VisualGLM</td>
+      <td>北京交通大学</td>
+    </tr>
+    <tr>
+      <td>15. 水利/海洋</td>
+      <td><a href="https://github.com/hkust-vgd/MarineGPT">MarineGPT</a></td>
+      <td>英文</td>
+      <td>√</td>
+      <td>2B, 7B, 13B</td>
+      <td>Vicuna V0, GEMMA</td>
+      <td>香港科技大学</td>
+    </tr>
+    <tr>
+      <td>15. 水利/海洋</td>
+      <td><a href="https://huggingface.co/zjunlp">OceanGPT</a></td>
+      <td>中文 英文</td>
+      <td>×</td>
+      <td>7B, 14B</td>
+      <td>Qwen2, Qwen1.5</td>
+      <td>浙江大学</td>
+    </tr>
+    <tr>
+      <td>16. 数学</td>
+      <td><a href="https://github.com/yongzhuo/chatglm-maths">chatglm-maths</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>6B</td>
+      <td>ChatGLM</td>
+      <td>yongzhuo</td>
+    </tr>
+    <tr>
+      <td>16. 数学</td>
+      <td><a href="https://github.com/THUDM/MathGLM">MathGLM</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>6B, 10B</td>
+      <td>ChatGLM, ChatGLM2, GLM-zh</td>
+      <td>THUDM</td>
+    </tr>
+    <tr>
+      <td>17. 学科教育</td>
+      <td><a href="https://github.com/blcuicall/taoli">Taoli</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>Chinese-LLaMA</td>
+      <td>北京语言大学</td>
+    </tr>
+    <tr>
+      <td>17. 学科教育</td>
+      <td><a href="https://github.com/icalk-nlp/EduChat">EduChat</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>1.8B, 14B, 32B, 13B</td>
+      <td>Baichuan, LLaMA, Qwen1.5</td>
+      <td>华东师范大学</td>
+    </tr>
+    <tr>
+      <td>17. 学科教育</td>
+      <td><a href="https://github.com/zhihaiLLM/wisdomBot">智海-三乐</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>Qwen</td>
+      <td>浙江大学</td>
+    </tr>
+    <tr>
+      <td>18. 科技/科学研究</td>
+      <td><a href="https://github.com/neukg/TechGPT">TechGPT</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>LLaMA</td>
+      <td>东北大学</td>
+    </tr>
+    <tr>
+      <td>18. 科技/科学研究</td>
+      <td><a href="https://github.com/gmftbyGMFTBY/science-llm">Mozi</a></td>
+      <td>中文 英文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>LLaMA, Baichuan</td>
+      <td>北京理工大学</td>
+    </tr>
+    <tr>
+      <td>18. 科技/科学研究</td>
+      <td><a href="https://github.com/PKU-YuanGroup/Chat-UniVi">Chat-UniVi</a></td>
+      <td>中文 英文</td>
+      <td>√</td>
+      <td>7B</td>
+      <td>Vicuna-v1.5, CLIP ViT-L/14</td>
+      <td>北京大学</td>
+    </tr>
+    <tr>
+      <td>18. 科技/科学研究</td>
+      <td><a href="https://github.com/tingxueronghua/ChartLlama-code">ChartLlama</a></td>
+      <td>英文</td>
+      <td>√</td>
+      <td>13B</td>
+      <td>LLaVA-1.5</td>
+      <td>腾讯</td>
+    </tr>
+    <tr>
+      <td>18. 科技/科学研究</td>
+      <td><a href="https://github.com/rshaojimmy/JiuTian">九天</a></td>
+      <td>英文</td>
+      <td>√</td>
+      <td>12B</td>
+      <td>FlanT5-XXL, EVA-G</td>
+      <td>哈尔滨工业大学</td>
+    </tr>
+    <tr>
+      <td>18. 科技/科学研究</td>
+      <td><a href="https://github.com/ZJU-M3/TableGPT-techreport">TabelGPT</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>Phoenix</td>
+      <td>浙江大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/xionghonglin/DoctorGLM">DoctorGLM</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>6B</td>
+      <td>ChatGLM</td>
+      <td>上海科技大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese">BenTsao</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>Huozi1.0, Bloom, Alpaca-Chinese, LLaMA</td>
+      <td>哈尔滨工业大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/scutcyr/BianQue">BianQue</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>6B</td>
+      <td>ClueAI/ChatYuan-large-v2, ChatGLM, </td>
+      <td>华南理工大学未来技术学院</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/FreedomIntelligence/HuatuoGPT">HuatuoGPT</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B, 13B</td>
+      <td>Baichuan, Ziya-LLaMA</td>
+      <td>港中文深圳</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/SCIR-HI/Med-ChatGLM">Med-ChatGLM</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>6B</td>
+      <td>ChatGLM</td>
+      <td>哈尔滨工业大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/CMKRG/QiZhenGPT">QiZhenGPT</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>6B, 7B, 13B</td>
+      <td>ChatGLM, Chinese-LLaMA-Plus, CaMA</td>
+      <td>浙江大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/michael-wzhu/ChatMed">ChatMed</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>LLaMA</td>
+      <td>中国农业大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/michael-wzhu/ShenNong-TCM-LLM">ShenNong-TCM-LLM</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>LLaMA</td>
+      <td>中国农业大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/WangRongsheng/XrayGLM">XrayGLM</a></td>
+      <td>中文</td>
+      <td>√</td>
+      <td>6B</td>
+      <td>VisualGLM</td>
+      <td>澳门理工大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/shibing624/MedicalGPT">MedicalGPT</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>8B, 13B</td>
+      <td>Ziya-LLaMA, Baichuan, Llama3</td>
+      <td>腾讯</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/thomas-yanxin/Sunsimiao">Sunsimiao</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>Baichuan</td>
+      <td>华东理工大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/WangRongsheng/CareGPT">CareGPT</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B, 13B, 14B, 20B</td>
+      <td>LLaMA1/2, Baichuan1/2, Qwen, InternLM, </td>
+      <td>澳门理工大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/FudanDISC/DISC-MedLLM">DISC-MedLLM</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>13B</td>
+      <td>Baichuan</td>
+      <td>复旦大学DISC</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/winninghealth/WiNGPT2">WiNGPT</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B, 8B, 14B</td>
+      <td>Qwen, Llama3</td>
+      <td>卫宁健康人工智能实验室</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/synlp/ChiMed-GPT">ChiMed-GPT</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>13B</td>
+      <td>Ziya2</td>
+      <td>中国科学技术大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/XZhang97666/AlpaCare">AlpaCare</a></td>
+      <td>英文</td>
+      <td>×</td>
+      <td>7B, 13B</td>
+      <td>LLaMA, LLaMA2</td>
+      <td>University of California, Santa Barbara</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/EmoCareAI/ChatPsychiatrist">ChatPsychiatrist</a></td>
+      <td>英文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>LLaMA</td>
+      <td>香港大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/SupritYoung/Zhongjing">Zhongjing-LLaMA</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>13B</td>
+      <td>Ziya-LLaMA</td>
+      <td>郑州大学自然语言处理实验室</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/chaoyi-wu/PMC-LLaMA">PMC-LLaMA</a></td>
+      <td>英文</td>
+      <td>×</td>
+      <td>7B, 8B, 13B</td>
+      <td>LLaMA, LLaMA3</td>
+      <td>上海交通大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/Kent0n-Li/ChatDoctor">ChatDoctor</a></td>
+      <td>英文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>LLaMA</td>
+      <td>美国德克萨斯大学西南医学中心</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/189569400/MedicalGPT-zh">MING</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>bloomz</td>
+      <td>上海交通大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/WangRongsheng/IvyGPT">IvyGPT</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>33B</td>
+      <td>LLaMA</td>
+      <td>澳门理工大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/openmedlab/PULSE">PULSE</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B, 20B</td>
+      <td>bloomz, InternLM</td>
+      <td>OpenMEDLab</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/Zlasejd/HuangDI">HuangDI</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>13B</td>
+      <td>Ziya-LLaMA</td>
+      <td>南京大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/pariskang/CMLM-ZhongJing">ZhongJing</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>1.8B</td>
+      <td>Qwen1.5</td>
+      <td>复旦大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/2020MEAI/TCMLLM">TCMLLM</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>6B</td>
+      <td>ChatGLM</td>
+      <td>北京交通大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/scutcyr/SoulChat">SoulChat</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>6B</td>
+      <td>ChatGLM</td>
+      <td>华南理工大学未来技术学院</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/X-D-Lab/MindChat">MindChat</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>0.5B, 1.8B, 4B, 7B, 14B</td>
+      <td>Qwen, Qwen2, InternLM2</td>
+      <td>华东理工大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/SteveKGYang/MentalLLaMA">MentalLLaMA</a></td>
+      <td>英文</td>
+      <td>×</td>
+      <td>7B, 13B, 33B</td>
+      <td>LLaMA2, Vicuna</td>
+      <td>National Centre for Text Mining</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/qiuhuachuan/smile">MeChat</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>6B</td>
+      <td>ChatGLM2</td>
+      <td>浙江大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/NEU-DataMining/PICA">PICA</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>6B</td>
+      <td>ChatGLM2</td>
+      <td>东北大学</td>
+    </tr>
+    <tr>
+      <td>19. 医学/健康/心理</td>
+      <td><a href="https://github.com/HIT-SCIR-SC/QiaoBan">QiaoBan</a></td>
+      <td>中文</td>
+      <td>-</td>
+      <td>7B</td>
+      <td>Baichuan</td>
+      <td>哈尔滨工业大学</td>
+    </tr>
+    <tr>
+      <td>20. 法律/司法</td>
+      <td><a href="https://github.com/LiuHC0428/LAW-GPT">LawGPT_zh</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>6B</td>
+      <td>ChatGLM</td>
+      <td>上海交通大学</td>
+    </tr>
+    <tr>
+      <td>20. 法律/司法</td>
+      <td><a href="https://github.com/pengxiao-song/LaWGPT">LaWGPT</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>Chinese-LLaMA, Chinese-alpaca-plus</td>
+      <td>南京大学</td>
+    </tr>
+    <tr>
+      <td>20. 法律/司法</td>
+      <td><a href="https://github.com/CSHaitao/LexiLaw">LexiLaw</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>6B</td>
+      <td>ChatGLM-6B</td>
+      <td>清华大学</td>
+    </tr>
+    <tr>
+      <td>20. 法律/司法</td>
+      <td><a href="https://github.com/AndrewZhe/lawyer-llama">Lawyer LLaMA</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>13B</td>
+      <td>Chinese-LLaMA,</td>
+      <td>北京大学</td>
+    </tr>
+    <tr>
+      <td>20. 法律/司法</td>
+      <td><a href="https://github.com/siat-nlp/HanFei">HanFei</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>预训练</td>
+      <td>中科院深圳先进院</td>
+    </tr>
+    <tr>
+      <td>20. 法律/司法</td>
+      <td><a href="https://github.com/PKU-YuanGroup/ChatLaw">ChatLaw</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>13B, 33B</td>
+      <td>Ziya-LLaMA, Anima</td>
+      <td>北京大学</td>
+    </tr>
+    <tr>
+      <td>20. 法律/司法</td>
+      <td><a href="https://github.com/davidpig/lychee_law">lychee_law</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>10B</td>
+      <td>GLM</td>
+      <td>南京大学</td>
+    </tr>
+    <tr>
+      <td>20. 法律/司法</td>
+      <td><a href="https://github.com/zhihaiLLM/wisdomInterrogatory">wisdomInterrogatory</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>Baichuan</td>
+      <td>浙江大学</td>
+    </tr>
+    <tr>
+      <td>20. 法律/司法</td>
+      <td><a href="https://github.com/irlab-sdu/fuzi.mingcha">fuzi-mingcha</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>6B</td>
+      <td>ChatGLM</td>
+      <td>山东大学</td>
+    </tr>
+    <tr>
+      <td>20. 法律/司法</td>
+      <td><a href="https://github.com/FudanDISC/DISC-LawLLM">DISC-LawLLM</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>13B</td>
+      <td>Baichuan</td>
+      <td>复旦大学DISC</td>
+    </tr>
+    <tr>
+      <td>20. 法律/司法</td>
+      <td><a href="https://github.com/seudl/JurisLMs">JurisLMs</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>13B</td>
+      <td>Chinese-LLaMA-Alpaca</td>
+      <td>seudl</td>
+    </tr>
+    <tr>
+      <td>20. 法律/司法</td>
+      <td><a href="https://github.com/DUTIR-LegalIntelligence/Tailing">TaiLing</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>Qwen</td>
+      <td>大连理工大学</td>
+    </tr>
+    <tr>
+      <td>21. 金融/经济</td>
+      <td><a href="https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese">Cornucopia</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>LLaMA, Chinese-LLaMA</td>
+      <td>中科院成都计算机应用研究所</td>
+    </tr>
+    <tr>
+      <td>21. 金融/经济</td>
+      <td><a href="https://github.com/ssymmetry/BBT-FinCUGE-Applications">BBT-FinCUGE-Applications</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>0.2B, 1B</td>
+      <td>T5-v1.1</td>
+      <td>复旦大学</td>
+    </tr>
+    <tr>
+      <td>21. 金融/经济</td>
+      <td><a href="https://github.com/Duxiaoman-DI/XuanYuan">XuanYuan</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>6B, 13B, 70B, 176B</td>
+      <td>LLaMA2, bloom</td>
+      <td>度小满</td>
+    </tr>
+    <tr>
+      <td>21. 金融/经济</td>
+      <td><a href="https://github.com/AI4Finance-Foundation/FinGPT">FinGPT</a></td>
+      <td>英文</td>
+      <td>×</td>
+      <td>7B, 13B</td>
+      <td>LLaMA2, falcon, bloom, mpt, ChatGLM, Qwen</td>
+      <td>Columbia University</td>
+    </tr>
+    <tr>
+      <td>21. 金融/经济</td>
+      <td><a href="https://github.com/FudanDISC/DISC-FinLLM">DISC-FinLLM</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>13B</td>
+      <td>Baichuan-13B-Chat</td>
+      <td>复旦大学DISC</td>
+    </tr>
+    <tr>
+      <td>21. 金融/经济</td>
+      <td><a href="https://modelscope.cn/models/TongyiFinance/Tongyi-Finance-14B">Tongyi-Finance</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>14B</td>
+      <td>Qwen-14B</td>
+      <td>阿里云</td>
+    </tr>
+    <tr>
+      <td>21. 金融/经济</td>
+      <td><a href="https://github.com/AbaciNLP/InvestLM">InvestLM</a></td>
+      <td>英文</td>
+      <td>×</td>
+      <td>65B</td>
+      <td>LLaMA-65B</td>
+      <td>香港科技大学</td>
+    </tr>
+    <tr>
+      <td>21. 金融/经济</td>
+      <td><a href="https://github.com/MetaGLM/FinGLM">FinGLM</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>6B</td>
+      <td>ChatGLM2-6B</td>
+      <td>MetaGLM</td>
+    </tr>
+    <tr>
+      <td>21. 金融/经济</td>
+      <td><a href="https://github.com/ant-research/fin_domain_llm">WeaverBird</a></td>
+      <td>中文 英文</td>
+      <td>×</td>
+      <td>6B</td>
+      <td>ChatGLM2-6B</td>
+      <td>蚂蚁集团</td>
+    </tr>
+    <tr>
+      <td>21. 金融/经济</td>
+      <td><a href="https://github.com/chancefocus/PIXIU">PIXIU</a></td>
+      <td>英文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>LLaMA-7B</td>
+      <td>The Fin AI</td>
+    </tr>
+    <tr>
+      <td>21. 金融/经济</td>
+      <td><a href="https://github.com/TigerResearch/TigerBot">TigerBot</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B, 13B, 70B, 180B</td>
+      <td>bloom, LLaMA2</td>
+      <td>虎博科技</td>
+    </tr>
+    <tr>
+      <td>22. 体育</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>23. 影视/娱乐</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>24. 游戏</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>25. 时政/政务/行政</td>
+      <td><a href="https://github.com/wenge-research/YaYi">YaYi</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B, 13B, 30B</td>
+      <td>LLaMA2</td>
+      <td>中科闻歌</td>
+    </tr>
+    <tr>
+      <td>26. 文学/情感</td>
+      <td><a href="https://github.com/Xunzi-LLM-of-Chinese-classics/XunziALLM">Xunzi</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>4B, 6B, 7B, 14B</td>
+      <td>Qwen, ChatGLM3, Xunzi-Qwen1.5, Baichuan2</td>
+      <td>南京农业大学</td>
+    </tr>
+    <tr>
+      <td>27. 旅游/地理</td>
+      <td><a href="https://github.com/davendw49/k2">k2</a></td>
+      <td>英文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>LLaMA</td>
+      <td>上海交通大学</td>
+    </tr>
+    <tr>
+      <td>28. 住宿/餐饮/酒店</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>29. 新闻传媒</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>30. 网络安全</td>
+      <td><a href="https://github.com/Clouditera/secgpt">SecGPT</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>13B</td>
+      <td>Baichuan</td>
+      <td>云起无垠</td>
+    </tr>
+    <tr>
+      <td>30. 网络安全</td>
+      <td><a href="https://github.com/ddzipp/AutoAudit">AutoAudit</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B</td>
+      <td>Alpaca-Lora</td>
+      <td>山东大学</td>
+    </tr>
+    <tr>
+      <td>31. 其他</td>
+      <td><a href="https://github.com/lyogavin/Anima">Anima</a></td>
+      <td>中文</td>
+      <td>×</td>
+      <td>7B, 33B</td>
+      <td>LLaMA2</td>
+      <td>艾写科技</td>
+    </tr>
+  <tbody>
+</table>
+
+👆 [<b>BACK to Table of Contents</b> -->](#目录)
