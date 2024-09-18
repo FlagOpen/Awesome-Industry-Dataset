@@ -65,7 +65,7 @@
     </tr>
     <tr>
       <td>3</td>
-      <td rowspan="2">汽车</td>
+      <td rowspan="2">2. 汽车</td>
       <td>IndustryCorpus2.0-汽车</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -87,8 +87,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>采矿</td>
+      <td>5</td>
+      <td rowspan="1">3. 采矿</td>
       <td>IndustryCorpus2.0-采矿</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -99,8 +99,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>石油化工</td>
+      <td>6</td>
+      <td rowspan="2">4. 石油化工</td>
       <td>IndustryCorpus2.0-石油化工</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -111,8 +111,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>石油化工</td>
+      <td>7</td>
       <td><a href="https://opendatalab.com/AI4Chem/ChemData700K">ChemData700K</a></td>
       <td>SFT</td>
       <td>英文</td>
@@ -123,8 +122,8 @@
       <td><a href="https://opendatalab.com/AI4Chem/ChemData700K">[1]</a></td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>电力能源</td>
+      <td>8</td>
+      <td rowspan="1">5. 电力能源</td>
       <td>IndustryCorpus2.0-电力能源</td>
       <td>PT</td>
       <td>中文 英文</td>
