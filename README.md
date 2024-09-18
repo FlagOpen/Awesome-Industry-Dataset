@@ -41,7 +41,8 @@
   </thead>
   <tbody>
     <tr>
-      <td>1. 农林牧渔</td>
+      <td>1</td>
+      <td rowspan="2">农林牧渔</td>
       <td>IndustryCorpus2.0-农林牧渔</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -52,7 +53,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>1. 农林牧渔</td>
+      <td>1</td>
       <td><a href="https://github.com/zhiweihu1103/AgriMa">AgriMa</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -63,7 +64,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>2. 汽车</td>
+      <td>2</td>
+      <td>汽车</td>
       <td>IndustryCorpus2.0-汽车</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -74,7 +76,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>2. 汽车</td>
+      <td>2</td>
+      <td>汽车</td>
       <td><a href="https://www.heywhale.com/mw/dataset/5af144b62bcd9d0197c19272/content">汽车大师问答摘要与推理</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -85,7 +88,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>3. 采矿</td>
+      <td>3</td>
+      <td>采矿</td>
       <td>IndustryCorpus2.0-采矿</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -96,7 +100,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>4. 石油化工</td>
+      <td>4</td>
+      <td>石油化工</td>
       <td>IndustryCorpus2.0-石油化工</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -107,7 +112,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>4. 石油化工</td>
+      <td>4</td>
+      <td>石油化工</td>
       <td><a href="https://opendatalab.com/AI4Chem/ChemData700K">ChemData700K</a></td>
       <td>SFT</td>
       <td>英文</td>
@@ -118,7 +124,8 @@
       <td><a href="https://opendatalab.com/AI4Chem/ChemData700K">[1]</a></td>
     </tr>
     <tr>
-      <td>5. 电力能源</td>
+      <td>5</td>
+      <td>电力能源</td>
       <td>IndustryCorpus2.0-电力能源</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -129,7 +136,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>6. 生物医药</td>
+      <td>6</td>
+      <td>生物医药</td>
       <td>IndustryCorpus2.0-生物医药</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -140,7 +148,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>6. 生物医药</td>
+      <td>6</td>
+      <td>生物医药</td>
       <td><a href="https://opendatalab.com/OpenDataLab/Pile-PubMed_Central">Pile-PubMed Central</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -151,7 +160,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>6. 生物医药</td>
+      <td>6</td>
+      <td>生物医药</td>
       <td><a href="https://github.com/xiaopangxia/TCM-Ancient-Books">TCM-Ancient-Books</a></td>
       <td>PT</td>
       <td>中文</td>
@@ -162,7 +172,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>6. 生物医药</td>
+      <td>6</td>
+      <td>生物医药</td>
       <td><a href="https://opendatalab.com/OpenDataLab/MedHop">MedHop</a></td>
       <td>SFT</td>
       <td>英文</td>
@@ -173,7 +184,8 @@
       <td><a href="https://opendatalab.com/OpenDataLab/MedHop">[2]</a></td>
     </tr>
     <tr>
-      <td>6. 生物医药</td>
+      <td>6</td>
+      <td>生物医药</td>
       <td><a href="https://huggingface.co/datasets/zjunlp/Mol-Instructions">Mol-Instructions</a></td>
       <td>SFT</td>
       <td>英文</td>
@@ -184,7 +196,8 @@
       <td><a href="https://huggingface.co/datasets/zjunlp/Mol-Instructions">[3]</a></td>
     </tr>
     <tr>
-      <td>6. 生物医药</td>
+      <td>6</td>
+      <td>生物医药</td>
       <td><a href="https://huggingface.co/datasets/michaelwzhu/ShenNong_TCM_Dataset">ShenNong_TCM_Dataset</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -195,7 +208,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>6. 生物医药</td>
+      <td>6</td>
+      <td>生物医药</td>
       <td><a href="https://tianchi.aliyun.com/dataset/86895">TCM_Literature_QA</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -206,7 +220,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>7. 航空航天</td>
+      <td>7</td>
+      <td>航空航天</td>
       <td>IndustryCorpus2.0-航空航天</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -217,7 +232,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>7. 航空航天</td>
+      <td>7</td>
+      <td>航空航天</td>
       <td><a href="https://www.luge.ai/#/luge/dataDetail?id=62">UMETRIP-QA</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -228,7 +244,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>8. 其他制造业</td>
+      <td>8</td>
+      <td>其他制造业</td>
       <td>IndustryCorpus2.0-其他制造</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -239,7 +256,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>9.计算机/通信</td>
+      <td>9</td>
+      <td>计算机/通信</td>
       <td>IndustryCorpus2.0-计算机_通信</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -250,7 +268,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>9.计算机/通信</td>
+      <td>9</td>
+      <td>计算机/通信</td>
       <td><a href="https://opendatalab.com/OpenDataLab/CoSQL">CoSQL</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -272,7 +291,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>9.计算机/通信</td>
+      <td>9</td>
+      <td>计算机/通信</td>
       <td><a href="https://github.com/HC-Guo/Owl">OWL-Instruct-ops001</a></td>
       <td>SFT</td>
       <td>中文 英文</td>
@@ -283,7 +303,8 @@
       <td><a href="https://github.com/HC-Guo/Owl">[5]</a></td>
     </tr>
     <tr>
-      <td>9.计算机/通信</td>
+      <td>9</td>
+      <td>计算机/通信</td>
       <td><a href="https://github.com/HC-Guo/Owl/tree/main">OWL-Bench</a></td>
       <td>Evaluation</td>
       <td>中文</td>
@@ -294,7 +315,8 @@
       <td><a href="https://github.com/HC-Guo/Owl/tree/main">[6]</a></td>
     </tr>
     <tr>
-      <td>10.计算机编程</td>
+      <td>10</td>
+      <td>计算机编程</td>
       <td>IndustryCorpus2.0-计算机_编程</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -305,7 +327,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>10.计算机编程</td>
+      <td>10</td>
+      <td>计算机编程</td>
       <td><a href="https://opendatalab.com/OpenDataLab/JuICe">JuICe</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -316,7 +339,8 @@
       <td><a href="https://opendatalab.com/OpenDataLab/JuICe">[7]</a></td>
     </tr>
     <tr>
-      <td>10.计算机编程</td>
+      <td>10</td>
+      <td>计算机编程</td>
       <td><a href="https://opendatalab.com/OpenDataLab/the-stack">The Stack</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -327,7 +351,8 @@
       <td><a href="https://opendatalab.com/OpenDataLab/the-stack">[8]</a></td>
     </tr>
     <tr>
-      <td>10.计算机编程</td>
+      <td>10</td>
+      <td>计算机编程</td>
       <td><a href="https://huggingface.co/datasets/bigcode/starcoderdata">starcoderdata</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -338,7 +363,8 @@
       <td><a href="https://huggingface.co/datasets/bigcode/starcoderdata">[9]</a></td>
     </tr>
     <tr>
-      <td>10.计算机编程</td>
+      <td>10</td>
+      <td>计算机编程</td>
       <td><a href="https://huggingface.co/datasets/codeparrot/github-code">github-code</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -349,7 +375,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>10.计算机编程</td>
+      <td>10</td>
+      <td>计算机编程</td>
       <td><a href="https://huggingface.co/datasets/code-search-net/code_search_net">code_search_net</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -360,7 +387,8 @@
       <td><a href="https://huggingface.co/datasets/code-search-net/code_search_net">[10]</a></td>
     </tr>
     <tr>
-      <td>10.计算机编程</td>
+      <td>10</td>
+      <td>计算机编程</td>
       <td><a href="https://github.com/liangqingyuan/lyra">Lyra</a></td>
       <td>SFT</td>
       <td>中文 英文</td>
@@ -371,7 +399,8 @@
       <td><a href="https://github.com/liangqingyuan/lyra">[11]</a></td>
     </tr>
     <tr>
-      <td>10.计算机编程</td>
+      <td>10</td>
+      <td>计算机编程</td>
       <td><a href="https://opendatalab.com/OpenDataLab/StaQC">StaQC</a></td>
       <td>SFT</td>
       <td>英文</td>
@@ -382,7 +411,8 @@
       <td><a href="https://opendatalab.com/OpenDataLab/StaQC">[12]</a></td>
     </tr>
     <tr>
-      <td>10.计算机编程</td>
+      <td>10</td>
+      <td>计算机编程</td>
       <td><a href="https://github.com/zxx000728/CodeGPT">CodeGPT</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -393,7 +423,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>10.计算机编程</td>
+      <td>10</td>
+      <td>计算机编程</td>
       <td><a href="https://github.com/sahil280114/codealpaca">Code_Alpaca_20K</a></td>
       <td>SFT</td>
       <td>英文</td>
@@ -404,7 +435,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>10.计算机编程</td>
+      <td>10</td>
+      <td>计算机编程</td>
       <td><a href="https://github.com/tangqiaoyu/ToolAlpaca">ToolAlpaca</a></td>
       <td>SFT</td>
       <td>英文</td>
@@ -415,7 +447,8 @@
       <td><a href="https://github.com/tangqiaoyu/ToolAlpaca">[13]</a></td>
     </tr>
     <tr>
-      <td>10.计算机编程</td>
+      <td>10</td>
+      <td>计算机编程</td>
       <td><a href="https://huggingface.co/datasets/google-research-datasets/mbpp?row=21">mbpp</a></td>
       <td>Evaluation</td>
       <td>英文</td>
@@ -426,7 +459,8 @@
       <td><a href="https://huggingface.co/datasets/google-research-datasets/mbpp?row=21">[14]</a></td>
     </tr>
     <tr>
-      <td>10.计算机编程</td>
+      <td>10</td>
+      <td>计算机编程</td>
       <td><a href="https://huggingface.co/datasets/openai/openai_humaneval">HumanEval</a></td>
       <td>Evaluation</td>
       <td>英文</td>
@@ -437,7 +471,8 @@
       <td><a href="https://huggingface.co/datasets/openai/openai_humaneval">[15]</a></td>
     </tr>
     <tr>
-      <td>11. 人工智能</td>
+      <td>11</td>
+      <td>人工智能</td>
       <td>IndustryCorpus2.0-人工智能</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -448,7 +483,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>12. 其他信息服务</td>
+      <td>12</td>
+      <td>其他信息服务</td>
       <td>IndustryCorpus2.0-其他信息服务</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -459,7 +495,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>12. 其他信息服务</td>
+      <td>12</td>
+      <td>其他信息服务</td>
       <td><a href="https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/yf_amazon/intro.ipynb">yf_amazon</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -470,7 +507,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>12. 其他信息服务</td>
+      <td>12</td>
+      <td>其他信息服务</td>
       <td><a href="https://github.com/Alibaba-NLP/EcomGPT">EcomGPT</a></td>
       <td>Evaluation</td>
       <td>中文 英文</td>
@@ -481,7 +519,8 @@
       <td><a href="https://github.com/Alibaba-NLP/EcomGPT">[16]</a></td>
     </tr>
     <tr>
-      <td>13. 房地产/建筑</td>
+      <td>13</td>
+      <td>房地产/建筑</td>
       <td>IndustryCorpus2.0-房地产_建筑</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -492,7 +531,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>14. 交通运输/邮政</td>
+      <td>14</td>
+      <td>交通运输/邮政</td>
       <td>IndustryCorpus2.0-交通运输</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -503,7 +543,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>14. 交通运输/邮政</td>
+      <td>14</td>
+      <td>交通运输/邮政</td>
       <td><a href="https://huggingface.co/datasets/DUOMO-Lab/TransGPT-pt?row=99">TransGPT-pt</a></td>
       <td>PT</td>
       <td>中文</td>
@@ -514,7 +555,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>14. 交通运输/邮政</td>
+      <td>14</td>
+      <td>交通运输/邮政</td>
       <td><a href="https://huggingface.co/datasets/DUOMO-Lab/TransGPT-sft/tree/main">TransGPT-sft</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -525,7 +567,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>15. 水利/海洋</td>
+      <td>15</td>
+      <td>水利/海洋</td>
       <td>IndustryCorpus2.0-水利_海洋</td>
       <td>PT</td>
       <td>中文 英文</td>
