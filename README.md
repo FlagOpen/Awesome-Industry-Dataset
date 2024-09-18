@@ -2648,7 +2648,7 @@
     </tr>
     <tr>
       <td>49</td>
-      <td rowspan="49">17. 学科教育</td>
+      <td rowspan="1">17. 学科教育</td>
       <td>-</td>
       <td>-</td>
       <td>-</td>
