@@ -42,7 +42,7 @@
   <tbody>
     <tr>
       <td>1</td>
-      <td rowspan="2">农林牧渔</td>
+      <td rowspan="2">1. 农林牧渔</td>
       <td>IndustryCorpus2.0-农林牧渔</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -53,7 +53,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>2</td>
       <td><a href="https://github.com/zhiweihu1103/AgriMa">AgriMa</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -64,8 +64,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>汽车</td>
+      <td>3</td>
+      <td rowspan="2">汽车</td>
       <td>IndustryCorpus2.0-汽车</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -76,8 +76,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>汽车</td>
+      <td>4</td>
       <td><a href="https://www.heywhale.com/mw/dataset/5af144b62bcd9d0197c19272/content">汽车大师问答摘要与推理</a></td>
       <td>SFT</td>
       <td>中文</td>
