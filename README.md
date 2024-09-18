@@ -304,7 +304,7 @@
     </tr>
     <tr>
       <td>24</td>
-      <td rowspan="13">计算机编程</td>
+      <td rowspan="13">10. 计算机编程</td>
       <td>IndustryCorpus2.0-计算机_编程</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -447,8 +447,8 @@
       <td><a href="https://huggingface.co/datasets/openai/openai_humaneval">[15]</a></td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>人工智能</td>
+      <td>37</td>
+      <td rowspan="1">11. 人工智能</td>
       <td>IndustryCorpus2.0-人工智能</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -459,8 +459,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>其他信息服务</td>
+      <td>38</td>
+      <td rowspan="3">12. 其他信息服务</td>
       <td>IndustryCorpus2.0-其他信息服务</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -471,8 +471,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>其他信息服务</td>
+      <td>39</td>
       <td><a href="https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/yf_amazon/intro.ipynb">yf_amazon</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -483,8 +482,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>其他信息服务</td>
+      <td>40</td>
       <td><a href="https://github.com/Alibaba-NLP/EcomGPT">EcomGPT</a></td>
       <td>Evaluation</td>
       <td>中文 英文</td>
@@ -495,8 +493,8 @@
       <td><a href="https://github.com/Alibaba-NLP/EcomGPT">[16]</a></td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>房地产/建筑</td>
+      <td>41</td>
+      <td rowspan="1">13. 房地产/建筑</td>
       <td>IndustryCorpus2.0-房地产_建筑</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -507,8 +505,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>交通运输/邮政</td>
+      <td>42</td>
+      <td rowspan="3">14. 交通运输/邮政</td>
       <td>IndustryCorpus2.0-交通运输</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -519,8 +517,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>交通运输/邮政</td>
+      <td>43</td>
       <td><a href="https://huggingface.co/datasets/DUOMO-Lab/TransGPT-pt?row=99">TransGPT-pt</a></td>
       <td>PT</td>
       <td>中文</td>
@@ -531,8 +528,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>交通运输/邮政</td>
+      <td>44</td>
       <td><a href="https://huggingface.co/datasets/DUOMO-Lab/TransGPT-sft/tree/main">TransGPT-sft</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -543,8 +539,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>15</td>
-      <td>水利/海洋</td>
+      <td>45</td>
+      <td rowspan="2">15. 水利/海洋</td>
       <td>IndustryCorpus2.0-水利_海洋</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -555,7 +551,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>15. 水利/海洋</td>
+      <td>46</td>
       <td><a href="https://huggingface.co/datasets/zjunlp/OceanBench?row=14">OceanBench</a></td>
       <td>Evaluation</td>
       <td>英文</td>
@@ -566,7 +562,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>16.数学</td>
+      <td>47</td>
+      <td rowspan="15">16.数学</td>
       <td>IndustryCorpus2.0-数学</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -577,7 +574,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>16.数学</td>
+      <td>48</td>
       <td><a href="https://github.com/THUDM/MathGLM">MathGLM-dataset</a></td>
       <td>PT</td>
       <td>中文</td>
@@ -588,7 +585,7 @@
       <td><a href="https://github.com/THUDM/MathGLM">[17]</a></td>
     </tr>
     <tr>
-      <td>16.数学</td>
+      <td>49</td>
       <td><a href="https://github.com/wellecks/naturalproofs#naturalproofs-dataset">NaturalProofs</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -599,7 +596,7 @@
       <td><a href="https://github.com/wellecks/naturalproofs#naturalproofs-dataset">[18]</a></td>
     </tr>
     <tr>
-      <td>16.数学</td>
+      <td>50</td>
       <td><a href="https://opendatalab.com/OpenDataLab/mathpile">MathPile</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -610,7 +607,7 @@
       <td><a href="https://opendatalab.com/OpenDataLab/mathpile">[19]</a></td>
     </tr>
     <tr>
-      <td>16.数学</td>
+      <td>51</td>
       <td><a href="https://huggingface.co/datasets/EleutherAI/proof-pile-2">Proof-Pile-2</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -621,7 +618,7 @@
       <td><a href="https://huggingface.co/datasets/EleutherAI/proof-pile-2">[20]</a></td>
     </tr>
     <tr>
-      <td>16.数学</td>
+      <td>52</td>
       <td><a href="https://huggingface.co/datasets/open-web-math/open-web-math">OpenWebMath</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -632,7 +629,7 @@
       <td><a href="https://huggingface.co/datasets/open-web-math/open-web-math">[21]</a></td>
     </tr>
     <tr>
-      <td>16.数学</td>
+      <td>53</td>
       <td><a href="https://opendatalab.com/OpenDataLab/Pile-DM_Mathematics">Pile-DM_Mathematics</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -643,7 +640,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>16.数学</td>
+      <td>54</td>
       <td><a href="https://github.com/liutiedong/goat">Goat</a></td>
       <td>SFT</td>
       <td>英文</td>
@@ -654,7 +651,7 @@
       <td><a href="https://github.com/liutiedong/goat">[22]</a></td>
     </tr>
     <tr>
-      <td>16.数学</td>
+      <td>55</td>
       <td><a href="https://huggingface.co/datasets/nvidia/OpenMathInstruct-1">OpenMathInstruct-1</a></td>
       <td>SFT</td>
       <td>英文</td>
@@ -665,7 +662,7 @@
       <td><a href="https://huggingface.co/datasets/nvidia/OpenMathInstruct-1">[23]</a></td>
     </tr>
     <tr>
-      <td>16.数学</td>
+      <td>56</td>
       <td><a href="https://github.com/yongzhuo/LLM-SFT">MWP-Instruct</a></td>
       <td>SFT</td>
       <td>英文</td>
@@ -676,7 +673,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>16.数学</td>
+      <td>57</td>
       <td><a href="https://huggingface.co/datasets/BelleGroup/school_math_0.25M?row=6">BELLE_School_Math</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -687,7 +684,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>16.数学</td>
+      <td>58</td>
       <td><a href="https://ai.tencent.com/ailab/nlp/dialogue/#datasets">Math23K</a></td>
       <td>Evaluation</td>
       <td>中文</td>
@@ -698,7 +695,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>16.数学</td>
+      <td>59</td>
       <td><a href="https://huggingface.co/datasets/deepmind/math_dataset">math_dataset</a></td>
       <td>Evaluation</td>
       <td>英文</td>
@@ -709,7 +706,7 @@
       <td><a href="https://huggingface.co/datasets/deepmind/math_dataset">[24]</a></td>
     </tr>
     <tr>
-      <td>16.数学</td>
+      <td>60</td>
       <td><a href="https://huggingface.co/datasets/openai/gsm8k">Gsm8k</a></td>
       <td>Evaluation</td>
       <td>英文</td>
@@ -720,7 +717,7 @@
       <td><a href="https://huggingface.co/datasets/openai/gsm8k">[25]</a></td>
     </tr>
     <tr>
-      <td>16.数学</td>
+      <td>61</td>
       <td><a href="https://github.com/Chenny0808/ape210k?tab=readme-ov-file">Ape210K</a></td>
       <td>Evaluation</td>
       <td>中文</td>
@@ -731,7 +728,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>17. 学科教育</td>
+      <td>62</td>
+      <td rowspan="5">62. 学科教育</td>
       <td>IndustryCorpus2.0-学科教育</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -742,7 +740,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>17. 学科教育</td>
+      <td>63</td>
       <td><a href="https://github.com/ECNU-ICALK/EduChat">Educhat-sft-002-data-osm</a></td>
       <td>SFT</td>
       <td>中文 英文</td>
@@ -753,7 +751,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>17. 学科教育</td>
+      <td>64</td>
       <td><a href="https://github.com/blcuicall/mcts/tree/main/pseudo_data">MCTS</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -764,7 +762,7 @@
       <td><a href="https://github.com/blcuicall/mcts/tree/main/pseudo_data">[26]</a></td>
     </tr>
     <tr>
-      <td>17. 学科教育</td>
+      <td>65</td>
       <td><a href="https://github.com/HIT-SCIR-SC/QiaoBan/tree/main/data">Child_chat_data</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -775,7 +773,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>17. 学科教育</td>
+      <td>66</td>
       <td><a href="https://opendatalab.com/OpenDataLab/EXAMS">EXAMS</a></td>
       <td>SFT</td>
       <td>-</td>
@@ -786,7 +784,8 @@
       <td><a href="https://opendatalab.com/OpenDataLab/EXAMS">[27]</a></td>
     </tr>
     <tr>
-      <td>18. 科技/科学研究</td>
+      <td>67</td>
+      <td rowspan="12">18. 科技/科学研究</td>
       <td>IndustryCorpus2.0-科技_科学研究</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -797,7 +796,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>18. 科技/科学研究</td>
+      <td>68</td>
       <td><a href="https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T">RedPajama-Data-1T</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -808,7 +807,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>18. 科技/科学研究</td>
+      <td>69</td>
       <td><a href="https://github.com/allenai/s2orc">S2ORC</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -819,7 +818,7 @@
       <td><a href="https://github.com/allenai/s2orc">[28]</a></td>
     </tr>
     <tr>
-      <td>18. 科技/科学研究</td>
+      <td>70</td>
       <td><a href="https://opendatalab.org.cn/OpenDataLab/WanJuan1_dot_0">WanJuan1.0-CN/Patent</a></td>
       <td>PT</td>
       <td>中文</td>
@@ -830,7 +829,7 @@
       <td><a href="https://opendatalab.org.cn/OpenDataLab/WanJuan1_dot_0">[29]</a></td>
     </tr>
     <tr>
-      <td>18. 科技/科学研究</td>
+      <td>71</td>
       <td><a href="https://github.com/ydli-ai/CSL">CSL-pt</a></td>
       <td>PT</td>
       <td>中文</td>
@@ -841,7 +840,7 @@
       <td><a href="https://github.com/ydli-ai/CSL">[30]</a></td>
     </tr>
     <tr>
-      <td>18. 科技/科学研究</td>
+      <td>72</td>
       <td><a href="https://opendatalab.com/OpenDataLab/CORD-19">CORD-19</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -852,7 +851,7 @@
       <td><a href="https://opendatalab.com/OpenDataLab/CORD-19">[31]</a></td>
     </tr>
     <tr>
-      <td>18. 科技/科学研究</td>
+      <td>73</td>
       <td><a href="https://opendatalab.com/OpenDataLab/Elsevier_OA_CC-BY">Elsevier OA CC-BY</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -863,7 +862,7 @@
       <td><a href="https://opendatalab.com/OpenDataLab/Elsevier_OA_CC-BY">[32]</a></td>
     </tr>
     <tr>
-      <td>18. 科技/科学研究</td>
+      <td>74</td>
       <td><a href="https://opendatalab.com/OpenDataLab/Pile-ArXiv">Pile-ArXiv</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -874,7 +873,7 @@
       <td><a href="https://opendatalab.com/OpenDataLab/Pile-ArXiv">[33]</a></td>
     </tr>
     <tr>
-      <td>18. 科技/科学研究</td>
+      <td>75</td>
       <td><a href="https://huggingface.co/datasets/daven3/geosignal?row=18">GeoSignal</a></td>
       <td>SFT</td>
       <td>英文</td>
@@ -885,7 +884,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>18. 科技/科学研究</td>
+      <td>76</td>
       <td><a href="https://huggingface.co/datasets/DataHammer/scimrc">SciMRC</a></td>
       <td>SFT</td>
       <td>英文</td>
@@ -896,7 +895,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>18. 科技/科学研究</td>
+      <td>77</td>
       <td><a href="https://github.com/ydli-ai/CSL">CSL-sft</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -907,7 +906,7 @@
       <td><a href="https://github.com/ydli-ai/CSL">[34]</a></td>
     </tr>
     <tr>
-      <td>18. 科技/科学研究</td>
+      <td>78</td>
       <td><a href="https://opendatalab.com/OpenDataLab/CSL">CSL-bench</a></td>
       <td>Evaluation</td>
       <td>中文</td>
