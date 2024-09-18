@@ -41,17 +41,6 @@
   <tbody>
     <tr>
       <td>1. 农林牧渔</td>
-      <td>IndustryCorpus2.0-农林牧渔</td>
-      <td>PT</td>
-      <td>中文 英文</td>
-      <td>56</td>
-      <td>-</td>
-      <td>BAAI</td>
-      <td>Apache 2.0</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>1. 农林牧渔</td>
       <td><a href="https://github.com/zhiweihu1103/AgriMa">AgriMa</a></td>
       <td>SFT</td>
       <td>中文</td>
