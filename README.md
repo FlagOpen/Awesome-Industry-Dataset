@@ -729,7 +729,7 @@
     </tr>
     <tr>
       <td>62</td>
-      <td rowspan="5">62. 学科教育</td>
+      <td rowspan="5">17. 学科教育</td>
       <td>IndustryCorpus2.0-学科教育</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -917,7 +917,8 @@
       <td><a href="https://opendatalab.com/OpenDataLab/CSL">[35]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>79</td>
+      <td rowspan="33">19. 医学/健康/心理</td>
       <td>IndustryCorpus2.0-医学_健康_心理</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -928,7 +929,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>80</td>
       <td><a href="https://opendatalab.com/OpenDataLab/Pile-PubMed_Abstracts">Pile-PubMed_Abstracts</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -939,7 +940,7 @@
       <td><a href="https://opendatalab.com/OpenDataLab/Pile-PubMed_Abstracts">[36]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>81</td>
       <td><a href="https://opendatalab.com/OpenDataLab/Pubmed">Pubmed</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -950,7 +951,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>82</td>
       <td><a href="https://huggingface.co/datasets/shibing624/medical/blob/main/pretrain/medical_book_zh.json">medical_book_zh</a></td>
       <td>PT</td>
       <td>中文</td>
@@ -961,7 +962,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>83</td>
       <td><a href="https://huggingface.co/datasets/epfl-llm/guidelines">guidelines</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -972,7 +973,7 @@
       <td><a href="https://huggingface.co/datasets/epfl-llm/guidelines">[37]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>84</td>
       <td><a href="https://huggingface.co/datasets/McGill-NLP/medal">medal</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -983,7 +984,7 @@
       <td><a href="https://huggingface.co/datasets/McGill-NLP/medal">[38]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>85</td>
       <td><a href="https://github.com/Kent0n-Li/ChatDoctor">ChatDoctor</a></td>
       <td>SFT</td>
       <td>英文</td>
@@ -994,7 +995,7 @@
       <td><a href="https://github.com/Kent0n-Li/ChatDoctor">[39]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>86</td>
       <td><a href="https://github.com/qiuhuachuan/smile/tree/main/data">MeChat</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -1005,7 +1006,7 @@
       <td><a href="https://github.com/qiuhuachuan/smile/tree/main/data">[40]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>87</td>
       <td><a href="https://huggingface.co/datasets/Suprit/CMtMedQA">CMtMedQA</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -1016,7 +1017,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>88</td>
       <td><a href="https://huggingface.co/datasets/Flmc/DISC-Med-SFT">DISC-Med-SFT</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -1027,7 +1028,7 @@
       <td><a href="https://huggingface.co/datasets/Flmc/DISC-Med-SFT">[41]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>89</td>
       <td><a href="https://github.com/FreedomIntelligence/Huatuo-26M">Huatuo-26M</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -1038,7 +1039,7 @@
       <td><a href="https://github.com/FreedomIntelligence/Huatuo-26M">[42]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>90</td>
       <td><a href="https://huggingface.co/datasets/FreedomIntelligence/HuatuoGPT-sft-data-v1">HuatuoGPT-sft-data-v1</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -1049,7 +1050,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>91</td>
       <td><a href="https://github.com/Toyhom/Chinese-medical-dialogue-data">Chinese medical dialogue data</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -1060,7 +1061,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>92</td>
       <td><a href="https://github.com/CMKRG/QiZhenGPT/blob/main/data/train/sft-20k.json">QiZhenGPT-sft-20k</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -1071,7 +1072,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>93</td>
       <td><a href="https://huggingface.co/datasets/michaelwzhu/ChatMed_Consult_Dataset">ChatMed_Consult_Dataset</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -1082,7 +1083,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>94</td>
       <td><a href="https://huggingface.co/datasets/shibing624/medical">medical-sft</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -1093,7 +1094,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>95</td>
       <td><a href="https://github.com/zhangsheng93/cMedQA2">cMedQA2</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -1104,7 +1105,7 @@
       <td><a href="https://github.com/zhangsheng93/cMedQA2">[43]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>96</td>
       <td><a href="https://github.com/hejunqing/webMedQA">webMedQA</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -1115,7 +1116,7 @@
       <td><a href="https://github.com/hejunqing/webMedQA">[44]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>97</td>
       <td><a href="https://github.com/pubmedqa/pubmedqa?tab=readme-ov-file">PubMedQA</a></td>
       <td>SFT</td>
       <td>英文</td>
@@ -1126,7 +1127,7 @@
       <td><a href="https://github.com/pubmedqa/pubmedqa?tab=readme-ov-file">[45]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>98</td>
       <td><a href="https://github.com/WENGSYX/CMCQA?tab=readme-ov-file">CMCQA</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -1137,7 +1138,7 @@
       <td><a href="https://github.com/WENGSYX/CMCQA?tab=readme-ov-file">[46]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>99</td>
       <td><a href="https://huggingface.co/datasets/UCSD26/medical_dialog">medical_dialog</a></td>
       <td>SFT</td>
       <td>中文 英文</td>
@@ -1148,7 +1149,7 @@
       <td><a href="https://huggingface.co/datasets/UCSD26/medical_dialog">[47]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>100</td>
       <td><a href="https://github.com/abachaa/LiveQA_MedicalTask_TREC2017">LiveQA</a></td>
       <td>SFT</td>
       <td>英文</td>
@@ -1159,7 +1160,7 @@
       <td><a href="https://github.com/abachaa/LiveQA_MedicalTask_TREC2017">[48]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>101</td>
       <td><a href="https://drive.google.com/file/d/1ImYUSLk9JbgHXOemfvyiDiirluZHPeQw/view?usp=sharing">MedQA</a></td>
       <td>SFT</td>
       <td>简中 繁中 英文</td>
@@ -1170,7 +1171,7 @@
       <td><a href="https://drive.google.com/file/d/1ImYUSLk9JbgHXOemfvyiDiirluZHPeQw/view?usp=sharing">[49]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>102</td>
       <td><a href="https://drive.google.com/uc?export=download&id=15VkJdq5eyWIkfb_aoD3oS8i4tScbHYky">MedMCQA</a></td>
       <td>SFT</td>
       <td>英文</td>
@@ -1181,7 +1182,7 @@
       <td><a href="https://drive.google.com/uc?export=download&id=15VkJdq5eyWIkfb_aoD3oS8i4tScbHYky">[50]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>103</td>
       <td><a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-023-06291-2/MediaObjects/41586_2023_6291_MOESM6_ESM.xlsx">HealthSearchQA</a></td>
       <td>SFT</td>
       <td>英文</td>
@@ -1192,7 +1193,7 @@
       <td><a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-023-06291-2/MediaObjects/41586_2023_6291_MOESM6_ESM.xlsx">[51]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>104</td>
       <td><a href="https://huggingface.co/datasets/BAAI/AquilaMed-Instruct">AquilaMed-Instruct</a></td>
       <td>SFT</td>
       <td>中文 英文</td>
@@ -1203,7 +1204,7 @@
       <td><a href="https://huggingface.co/datasets/BAAI/AquilaMed-Instruct">[52]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>105</td>
       <td><a href="https://huggingface.co/datasets/BAAI/AquilaMed-RL">AquilaMed-RL</a></td>
       <td>RLHF/RM</td>
       <td>中文 英文</td>
@@ -1214,7 +1215,7 @@
       <td><a href="https://huggingface.co/datasets/BAAI/AquilaMed-RL">[53]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>106</td>
       <td><a href="https://github.com/SupritYoung/Zhongjing/blob/main/data/rlhf2000_7_31.json">Zhongjing-rlhf-2k</a></td>
       <td>RLHF/RM</td>
       <td>中文</td>
@@ -1225,7 +1226,7 @@
       <td><a href="https://github.com/SupritYoung/Zhongjing/blob/main/data/rlhf2000_7_31.json">[54]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>107</td>
       <td><a href="https://huggingface.co/datasets/shibing624/medical">reward-reward</a></td>
       <td>RLHF/RM</td>
       <td>中文</td>
@@ -1236,7 +1237,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>108</td>
       <td><a href="https://github.com/FreedomIntelligence/CMB/blob/main/README_zh.md">CMB</a></td>
       <td>Evaluation</td>
       <td>中文</td>
@@ -1247,7 +1248,7 @@
       <td><a href="https://github.com/FreedomIntelligence/CMB/blob/main/README_zh.md">[55]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>109</td>
       <td><a href="https://github.com/CMKRG/QiZhenGPT/blob/main/data/eval/%E8%8D%AF%E5%93%81%E9%80%82%E5%BA%94%E7%97%87%E8%AF%84%E6%B5%8B%E6%95%B0%E6%8D%AE%E9%9B%86.csv">药品适应症评测</a></td>
       <td>Evaluation</td>
       <td>中文</td>
@@ -1258,7 +1259,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>110</td>
       <td><a href="https://github.com/williamliujl/CMExam/">CMExam</a></td>
       <td>Evaluation</td>
       <td>中文</td>
@@ -1269,7 +1270,7 @@
       <td><a href="https://github.com/williamliujl/CMExam/">[56]</a></td>
     </tr>
     <tr>
-      <td>19.医学/健康/心理</td>
+      <td>111</td>
       <td><a href="https://medbench.opencompass.org.cn/">MedBench</a></td>
       <td>Evaluation</td>
       <td>中文</td>
