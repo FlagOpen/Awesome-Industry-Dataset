@@ -134,8 +134,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>生物医药</td>
+      <td>9</td>
+      <td rowspan="7">生物医药</td>
       <td>IndustryCorpus2.0-生物医药</td>
       <td>PT</td>
       <td>中文 英文</td>
@@ -146,8 +146,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>生物医药</td>
+      <td>10</td>
       <td><a href="https://opendatalab.com/OpenDataLab/Pile-PubMed_Central">Pile-PubMed Central</a></td>
       <td>PT</td>
       <td>英文</td>
@@ -158,8 +157,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>生物医药</td>
+      <td>11</td>
       <td><a href="https://github.com/xiaopangxia/TCM-Ancient-Books">TCM-Ancient-Books</a></td>
       <td>PT</td>
       <td>中文</td>
@@ -170,8 +168,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>生物医药</td>
+      <td>12</td>
       <td><a href="https://opendatalab.com/OpenDataLab/MedHop">MedHop</a></td>
       <td>SFT</td>
       <td>英文</td>
@@ -182,8 +179,7 @@
       <td><a href="https://opendatalab.com/OpenDataLab/MedHop">[2]</a></td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>生物医药</td>
+      <td>13</td>
       <td><a href="https://huggingface.co/datasets/zjunlp/Mol-Instructions">Mol-Instructions</a></td>
       <td>SFT</td>
       <td>英文</td>
@@ -194,8 +190,7 @@
       <td><a href="https://huggingface.co/datasets/zjunlp/Mol-Instructions">[3]</a></td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>生物医药</td>
+      <td>14</td>
       <td><a href="https://huggingface.co/datasets/michaelwzhu/ShenNong_TCM_Dataset">ShenNong_TCM_Dataset</a></td>
       <td>SFT</td>
       <td>中文</td>
@@ -206,8 +201,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>生物医药</td>
+      <td>15</td>
       <td><a href="https://tianchi.aliyun.com/dataset/86895">TCM_Literature_QA</a></td>
       <td>SFT</td>
       <td>中文</td>
