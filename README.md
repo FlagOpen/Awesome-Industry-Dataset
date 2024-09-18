@@ -135,7 +135,7 @@
     </tr>
     <tr>
       <td>9</td>
-      <td rowspan="7">生物医药</td>
+      <td rowspan="7">6. 生物医药</td>
       <td>IndustryCorpus2.0-生物医药</td>
       <td>PT</td>
       <td>中文 英文</td>
