@@ -46,7 +46,7 @@
       <td>IndustryCorpus2.0-农林牧渔</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>56</td>
+      <td>111.9</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -69,7 +69,7 @@
       <td>IndustryCorpus2.0-汽车</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>13.8</td>
+      <td>39.9</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -92,7 +92,7 @@
       <td>IndustryCorpus2.0-采矿</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>4</td>
+      <td>8.9</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -104,7 +104,7 @@
       <td>IndustryCorpus2.0-石油化工</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>15.3</td>
+      <td>40.2</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -127,7 +127,7 @@
       <td>IndustryCorpus2.0-电力能源</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>34.9</td>
+      <td>68.7</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -139,7 +139,7 @@
       <td>IndustryCorpus2.0-生物医药</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>18.6</td>
+      <td>61.7</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -217,7 +217,7 @@
       <td>IndustryCorpus2.0-航空航天</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>21.3</td>
+      <td>38.6</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -240,7 +240,7 @@
       <td>IndustryCorpus2.0-其他制造</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>11.7</td>
+      <td>47.2</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -252,7 +252,7 @@
       <td>IndustryCorpus2.0-计算机_通信</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>49</td>
+      <td>157.8</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -308,7 +308,7 @@
       <td>IndustryCorpus2.0-计算机_编程</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>0.9</td>
+      <td>11</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -452,7 +452,7 @@
       <td>IndustryCorpus2.0-人工智能</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>2.3</td>
+      <td>7.7</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -464,7 +464,7 @@
       <td>IndustryCorpus2.0-其他信息服务</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>0.8</td>
+      <td>1.8</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -498,7 +498,7 @@
       <td>IndustryCorpus2.0-房地产_建筑</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>42</td>
+      <td>105.2</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -510,7 +510,7 @@
       <td>IndustryCorpus2.0-交通运输</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>18.4</td>
+      <td>40.5</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -544,7 +544,7 @@
       <td>IndustryCorpus2.0-水利_海洋</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>10.2</td>
+      <td>20.2</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -567,7 +567,7 @@
       <td>IndustryCorpus2.0-数学</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>2.7</td>
+      <td>156.7</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -733,7 +733,7 @@
       <td>IndustryCorpus2.0-学科教育</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>167</td>
+      <td>340.9</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -789,7 +789,7 @@
       <td>IndustryCorpus2.0-科技_科学研究</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>36.6</td>
+      <td>101.6</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -922,7 +922,7 @@
       <td>IndustryCorpus2.0-医学_健康_心理</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>102</td>
+      <td>271.7</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -1286,7 +1286,7 @@
       <td>IndustryCorpus2.0-法律_司法</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>78</td>
+      <td>235.8</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -1430,7 +1430,7 @@
       <td>IndustryCorpus2.0-金融_经济</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>73</td>
+      <td>145.8</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -1562,7 +1562,7 @@
       <td rowspan="3">IndustryCorpus2.0-体育</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>78.3</td>
+      <td>262.5</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -1596,7 +1596,7 @@
       <td>IndustryCorpus2.0-影视_娱乐</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>65</td>
+      <td>209.4</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -1652,7 +1652,7 @@
       <td>IndustryCorpus2.0-游戏</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>9.3</td>
+      <td>37.6</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -1675,7 +1675,7 @@
       <td>IndustryCorpus2.0-政务</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>141</td>
+      <td>271.5</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -1720,7 +1720,7 @@
       <td>IndustryCorpus2.0-文学_情感</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>33</td>
+      <td>105.5</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -1853,7 +1853,7 @@
       <td>IndustryCorpus2.0-旅游_地理</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>27</td>
+      <td>64</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -1876,7 +1876,7 @@
       <td>IndustryCorpus2.0-住宿_餐饮_酒店</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>7.8</td>
+      <td>29.6</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -1965,7 +1965,7 @@
       <td>IndustryCorpus2.0-新闻传媒</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>18.1</td>
+      <td>209.4</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -2054,7 +2054,7 @@
       <td>IndustryCorpus2.0-安全</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>1.8</td>
+      <td>4.3</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
@@ -2099,7 +2099,7 @@
       <td>IndustryCorpus2.0-其他</td>
       <td>PT</td>
       <td>中文 英文</td>
-      <td>80</td>
+      <td>188.6</td>
       <td>-</td>
       <td>BAAI</td>
       <td>Apache 2.0</td>
