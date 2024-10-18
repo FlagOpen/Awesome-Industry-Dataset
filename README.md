@@ -7,6 +7,7 @@
 项目持续收集整理中，也期冀相关从业人员补充！
 
 ## 新闻
+- [2024/10/18] 更新AI大模型行业数据全景扫描
 - [2024/9/25] 开源行业指令数据集[IndustryInstruction](https://huggingface.co/datasets/BAAI/IndustryInstruction)
 - [2024/9/25] 发布AI大模型行业数据全景扫描
 - [2024/9/25] 开源[IndustryCorpus2.0](https://huggingface.co/datasets/BAAI/IndustryCorpus2)
